@@ -398,6 +398,4 @@ the system provides a portable platform for remotely operated solar-panel mainte
 
 ---
 
-## License
 
-This project can be released under the MIT License or another license selected by the project authors.
